@@ -39,54 +39,64 @@ cd OneDrive/desktop/unit1-git-practice/
 
 
 ### Step 3A
-
+mkdir veggier, mkdir meats, mkdir desserts
 
 ### Step 3B
-
+mv desserts sweets
 
 ### Step 3C
-
+mkdir proteins
 
 ### Step 3D
-
+mv meats proteins/
 
 ### Step 3E
-
+cd veggies, touch carrot.txt, touch pea.txt
 
 ### Step 3F
+cd ..
+cd sweets
+touch cookies.txt
 
 
 ### Step 3G
-
+mv cookie.txt donut.txt
 
 ### Step 3H
-
+touch thing.txt
 
 ### Step 3I
-
+cp thing.txt tofu.txt
 
 ### Step 3J
-
+mv tofu.txt proteins/
 
 ### Step 3K
+$ mv crab.txt proteins/meats/
 
 
 ### Step 3L
-
+rm -r thing.txt
 
 ### Step 3M
-
+$ cp -r veggies plants
 
 ### Step 3N
-
+touch drinks
+rm drinks
 
 
 ### Step 4
-
+cd Onedrive/desktop/unit1-git-practice
+git init
+git add .
+git commit -m 'first commit'
 
 ### Step 5
-
-
+github.com
+Creat new repo - "unit1-git-practice"
+Copied and pasted in GIT hit Enter
+ 
 ### Step 6
 
 
