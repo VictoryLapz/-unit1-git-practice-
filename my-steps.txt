@@ -1,0 +1,94 @@
+### Step 2A:
+/c/Users/Fredd
+
+
+### Step 2B
+cd Desktop
+
+### Step 2C
+cd unit1-git-practice
+
+
+### Step 2D
+/c/Users/Fredd/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ..
+
+### Step 2H
+/c
+
+### Step 2I
+LICENSE.txt        cmd/  git-bash.exe*  proc/         unins000.exe*
+ReleaseNotes.html  dev/  git-cmd.exe*   tmp/          unins000.msg
+bin/               etc/  mingw64/       unins000.dat  usr/
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd OneDrive/desktop/unit1-git-practice/
+
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
